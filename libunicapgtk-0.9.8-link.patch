@@ -1,5 +1,5 @@
---- src/Makefile.am.link	2011-05-10 05:42:12.000000000 +0200
-+++ src/Makefile.am	2011-05-10 05:42:57.000000000 +0200
+--- ./src/Makefile.am.link	2011-05-10 05:42:12.000000000 +0200
++++ ./src/Makefile.am	2011-05-10 05:42:57.000000000 +0200
 @@ -20,7 +20,7 @@
  
  libunicapgtk_la_LIBADD = \
@@ -9,8 +9,8 @@
  			  @UNICAP_PACKAGE_LIBS@
  			  -lm
  
---- src/Makefile.in.link	2011-05-10 05:42:22.000000000 +0200
-+++ src/Makefile.in	2011-05-10 05:42:39.000000000 +0200
+--- ./src/Makefile.in.link	2011-05-10 05:42:22.000000000 +0200
++++ ./src/Makefile.in	2011-05-10 05:42:39.000000000 +0200
 @@ -283,7 +283,7 @@
  
  libunicapgtk_la_LIBADD = \
