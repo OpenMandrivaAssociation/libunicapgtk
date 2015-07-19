@@ -5,7 +5,7 @@
 Summary:	Library to build graphical widgets for the unicap library
 Name:		libunicapgtk
 Version:	0.9.8
-Release:	11
+Release:	12
 License:	GPLv2+
 Group:		System/Libraries
 Url:		http://www.unicap-imaging.org/
