@@ -8,7 +8,7 @@ Version:	0.9.8
 Release:	12
 License:	GPLv2+
 Group:		System/Libraries
-Url:		http://www.unicap-imaging.org/
+Url:		https://www.unicap-imaging.org/
 Source0:	http://www.unicap-imaging.org/downloads/%{name}-%{version}.tar.gz
 Patch0:		libunicapgtk-0.9.8-link.patch
 Patch1:		libunicapgtk-bz532289.patch
