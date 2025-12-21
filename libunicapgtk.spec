@@ -13,6 +13,11 @@ Source0:	http://www.unicap-imaging.org/downloads/%{name}-%{version}.tar.gz
 Patch0:		libunicapgtk-0.9.8-link.patch
 Patch1:		libunicapgtk-bz532289.patch
 Patch2:		libunicapgtk-0.9.8-destroycb.patch
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	gtk-doc
 BuildRequires:	intltool
 BuildRequires:	pkgconfig(gtk+-2.0)
